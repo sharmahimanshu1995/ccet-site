@@ -1,0 +1,10 @@
+<html>
+<body>
+<?php
+$host="65.182.191.202";
+$username="risingccet";
+$password="3Ba5@7kg";
+$db="risingccet";
+?>
+</body>
+</html>
